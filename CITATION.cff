@@ -1,0 +1,49 @@
+cff-version: 1.2.0
+title: "Secure Enterprise Framework® (SEF®) Lean Version Release 4.0"
+version: "4.0"
+abstract: >
+  This document describes the SEF® Lean Version, which is part of the Secure
+  Enterprise Framework® (SEF®). It proposes the SEF® Lean Version as the
+  Enterprise Architecture Framework (EAF) for organisations or for programmes
+  of large organisations. The document articulates the challenges of
+  transformation programmes and the limitations of existing Enterprise
+  Architecture Frameworks, describes the components of the SEF® Lean Version,
+  and presents the business benefits of utilising the proposed framework.
+  It is intended for enterprise architects, service architects, business
+  architects, information architects, infrastructure architects, integration
+  architects, security architects, programme managers, and business directors
+  interested in managing organisational complexity efficiently and effectively.
+authors:
+  - family-names: Baruttis
+    given-names: Alex
+    affiliation: Technognomi Ltd
+date-released: "2020-05-11"
+license: CC-BY-NC-ND-4.0
+type: report
+keywords:
+  - enterprise architecture
+  - secure enterprise framework
+  - SEF
+  - business architecture
+  - service architecture
+  - organisational complexity
+  - enterprise architecture framework
+  - transformation programmes
+repository-code: https://github.com/[YOUR-USERNAME]/secure-enterprise-framework-lean
+url: https://[YOUR-WEBSITE]
+identifiers:
+  - type: doi
+    value: "[INSERT ZENODO DOI HERE]"
+    description: Zenodo DOI for Release 4.0
+preferred-citation:
+  type: report
+  authors:
+    - family-names: Baruttis
+      given-names: A.
+      affiliation: Technognomi Ltd
+  title: "SEF® Lean Version"
+  year: 2020
+  version: "Release 4.0"
+  institution:
+    name: Technognomi Ltd
+  notes: "PDF"
