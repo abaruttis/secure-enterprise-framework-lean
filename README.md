@@ -54,7 +54,7 @@ BibTeX:
   year        = {2020},
   version     = {Release 4.0},
   institution = {Technognomi Ltd},
-  doi         = {10.5281/zenodo.14854664},
+  doi         = {10.5281/zenodo.18854664},
   url         = {https://github.com/abaruttis/secure-enterprise-framework-lean}
 }
 ```
