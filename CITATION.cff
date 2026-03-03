@@ -33,7 +33,7 @@ repository-code: https://github.com/[YOUR-USERNAME]/secure-enterprise-framework-
 url: https://[YOUR-WEBSITE]
 identifiers:
   - type: doi
-    value: "[INSERT ZENODO DOI HERE]"
+    value: "10.5281/zenodo.14854664"
     description: Zenodo DOI for Release 4.0
 preferred-citation:
   type: report
