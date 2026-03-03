@@ -55,7 +55,7 @@ BibTeX:
   version     = {Release 4.0},
   institution = {Technognomi Ltd},
   doi         = {INSERT DOI HERE},
-  url         = {https://github.com/[YOUR-USERNAME]/secure-enterprise-framework-lean}
+  url         = {https://github.com/abaruttis/secure-enterprise-framework-lean}
 }
 ```
 
@@ -71,5 +71,5 @@ BibTeX:
 
 ## Contact
 
-For licensing enquiries or commercial use, contact: **[your email]**
-Website: **[your website]**
+For licensing enquiries or commercial use, contact: **alex.baruttis@technognomi.com**
+Website: **www.technognomi.com**
