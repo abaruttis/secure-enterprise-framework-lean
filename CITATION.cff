@@ -29,8 +29,8 @@ keywords:
   - organisational complexity
   - enterprise architecture framework
   - transformation programmes
-repository-code: https://github.com/[YOUR-USERNAME]/secure-enterprise-framework-lean
-url: https://[YOUR-WEBSITE]
+repository-code: https://github.com/abaruttis/secure-enterprise-framework-lean
+url: https://www.technognomi.com
 identifiers:
   - type: doi
     value: "10.5281/zenodo.18854664"
