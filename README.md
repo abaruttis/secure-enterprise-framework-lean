@@ -44,7 +44,7 @@ Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## How to Cite
 
-> BARUTTIS, A. (2020). *SEF® Lean Version* [PDF]. Release 4.0. Technognomi Ltd. https://doi.org/[INSERT DOI AFTER ZENODO PUBLICATION]
+> BARUTTIS, A. (2020). *SEF® Lean Version* [PDF]. Release 4.0. Technognomi Ltd. https://doi.org/10.5281/zenodo.18854664
 
 BibTeX:
 ```bibtex
@@ -54,7 +54,7 @@ BibTeX:
   year        = {2020},
   version     = {Release 4.0},
   institution = {Technognomi Ltd},
-  doi         = {INSERT DOI HERE},
+  doi         = {10.5281/zenodo.14854664},
   url         = {https://github.com/abaruttis/secure-enterprise-framework-lean}
 }
 ```
