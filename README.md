@@ -16,7 +16,7 @@ The framework is intended for enterprise architects, service architects, busines
 
 ## Download
 
-📄 **[Download SEF® Lean Version Release 4.0 (PDF)](../../releases/v4.0/SEF.Lean.Version.pdf)**
+📄 **[Download SEF® Lean Version Release 4.0 (PDF)](../../releases/download/v4.0/SEF.Lean.Version.pdf)**
 
 > For a permanently archived, citable version with a DOI, see the [Zenodo record] (https://doi.org/10.5281/zenodo.18854664).
 
