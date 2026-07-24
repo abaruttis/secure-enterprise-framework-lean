@@ -18,8 +18,6 @@ The framework is intended for enterprise architects, service architects, busines
 
 📄 **[Download SEF® Lean Version Release 4.0 (PDF)](../../releases/download/v4.0/SEF.Lean.Version.pdf)**
 
-> For a permanently archived, citable version with a DOI, see the [Zenodo record] (https://doi.org/10.5281/zenodo.18854664).
-
 ---
 
 ## Licence
@@ -44,7 +42,7 @@ Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## How to Cite
 
-> BARUTTIS, A. (2020). *SEF® Lean Version* [PDF]. Release 4.0. Technognomi Ltd. https://doi.org/10.5281/zenodo.18854664
+> BARUTTIS, A. (2020). *SEF® Lean Version* [PDF]. Release 4.0. Technognomi Ltd.
 
 BibTeX:
 ```bibtex
@@ -54,7 +52,6 @@ BibTeX:
   year        = {2020},
   version     = {Release 4.0},
   institution = {Technognomi Ltd},
-  doi         = {10.5281/zenodo.18854664},
   url         = {https://github.com/abaruttis/secure-enterprise-framework-lean}
 }
 ```
