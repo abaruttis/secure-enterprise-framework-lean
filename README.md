@@ -48,6 +48,7 @@ Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 ## How to Cite
 
 > BARUTTIS, A. (2020). *SEF® Lean Version* [PDF]. Release 4.0. Technognomi Ltd.
+
 > BARUTTIS, A. (2020). *SEF® Lean Version — Organisational Accountability Structure* [PDF]. Release 4.0. Technognomi Ltd.
 
 BibTeX:
