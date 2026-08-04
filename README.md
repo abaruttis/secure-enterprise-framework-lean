@@ -21,6 +21,8 @@ This document articulates the organisational accountability structure that suppo
 ## Download
 
 📄 **[Download SEF® Lean Version Release 4.0 (PDF)](../../releases/download/v4.0/SEF.Lean.Version.pdf)**
+
+
 📄 **[Download SEF® Lean Version - Organisational Accountability Structure (PDF)](../../releases/download/v4.0/SEF.Lean.Version.-.Organisational.Accountability.Structure.pdf)**
 ---
 
