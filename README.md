@@ -63,7 +63,7 @@ BibTeX:
 
 This document articulates the organisational accountability structure that supports the SEF® Lean Version. It establishes clear ownership and accountability to support strategic alignment and consistent decision making.
 
-📄 **[Download SEF® Lean Version - Organisational Accountability Structure (PDF)](../../releases/download/v4.0/SEF%20Lean%20Version%20-%20Organisational%20Accountability%20Structure.pdf)**
+📄 **[Download SEF® Lean Version — Organisational Accountability Structure (PDF)](../../releases/download/v4.0/SEF.Lean.Version.-.Organisational.Accountability.Structure.pdf)**
 
 ## Changelog
 
