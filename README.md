@@ -12,12 +12,17 @@ The SEF® Lean Version addresses the challenges associated with organisational a
 
 The framework is intended for enterprise architects, service architects, business architects, information architects, infrastructure architects, integration architects, security architects, programme managers, and business directors.
 
+### Organisational Accountability Structure
+
+This document articulates the organisational accountability structure that supports the SEF® Lean Version. It establishes clear ownership and accountability to support strategic alignment and consistent decision making.
+
 ---
 
 ## Download
 
 📄 **[Download SEF® Lean Version Release 4.0 (PDF)](../../releases/download/v4.0/SEF.Lean.Version.pdf)**
 
+**[Download SEF® Lean Version — Organisational Accountability Structure (PDF)](https://github.com/abaruttis/secure-enterprise-framework-lean/releases/download/v4.0/SEF.Lean.Version.-.Organisational.Accountability.Structure.pdf)**
 ---
 
 ## Licence
@@ -43,6 +48,7 @@ Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 ## How to Cite
 
 > BARUTTIS, A. (2020). *SEF® Lean Version* [PDF]. Release 4.0. Technognomi Ltd.
+> BARUTTIS, A. (2020). *SEF® Lean Version — Organisational Accountability Structure* [PDF]. Release 4.0. Technognomi Ltd.
 
 BibTeX:
 ```bibtex
@@ -55,16 +61,6 @@ BibTeX:
   url         = {https://github.com/abaruttis/secure-enterprise-framework-lean}
 }
 ```
-
----
-## Related Documents
-
-### SEF® Lean Version — Organisational Accountability Structure
-
-This document articulates the organisational accountability structure that supports the SEF® Lean Version. It establishes clear ownership and accountability to support strategic alignment and consistent decision making.
-
-📄 **[Download SEF® Lean Version — Organisational Accountability Structure (PDF)](../../releases/download/v4.0/SEF.Lean.Version.-.Organisational.Accountability.Structure.pdf)**
-
 ## Changelog
 
 | Release | Date | Notes |
