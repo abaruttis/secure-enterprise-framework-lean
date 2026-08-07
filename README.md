@@ -16,6 +16,10 @@ The framework is intended for enterprise architects, service architects, busines
 
 This document articulates the organisational accountability structure that supports the SEF® Lean Version. It establishes clear ownership and accountability to support strategic alignment and consistent decision making.
 
+### Architectural Principles
+
+This document establishes the architectural principles of the SEF® Lean Version as foundational constraints for developing architectural policies and standards, supporting decision-making that keeps the architectural landscape aligned with the strategic goals of the organisation.
+
 ---
 
 ## Download
@@ -23,6 +27,8 @@ This document articulates the organisational accountability structure that suppo
 📄 **[Download SEF® Lean Version Release 4.0 (PDF)](https://github.com/abaruttis/secure-enterprise-framework-lean/releases/download/v4.0/SEF.Lean.Version.pdf)**
 
 📄 **[Download SEF® Lean Version - Organisational Accountability Structure (PDF)](https://github.com/abaruttis/secure-enterprise-framework-lean/releases/download/v4.0/SEF.Lean.Version.-.Organisational.Accountability.Structure.pdf)**
+
+📄 **[Download SEF® Lean Version - Architectural Principles (PDF)](https://github.com/abaruttis/secure-enterprise-framework-lean/releases/download/v4.0/SEF.Lean.Version.-.Architectural.Principles.pdf)**
 
 ---
 
@@ -51,6 +57,8 @@ Full licence text: https://creativecommons.org/licenses/by-nc-nd/4.0/
 > BARUTTIS, A. (2020). *SEF® Lean Version* [PDF]. Release 4.0. Technognomi Ltd.
 
 > BARUTTIS, A. (2020). *SEF® Lean Version — Organisational Accountability Structure* [PDF]. Release 4.0. Technognomi Ltd.
+
+> > BARUTTIS, A. (2020). *SEF® Lean Version — Architectural Principles* [PDF]. Release 4.0. Technognomi Ltd.
 
 BibTeX:
 ```bibtex
